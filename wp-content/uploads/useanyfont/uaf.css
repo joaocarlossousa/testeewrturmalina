@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'baar-antropos';
+					src: url('https://joaocarlossousa.github.io/testeewrturmalina/wp-content/uploads/useanyfont/5040Baar-Antropos.woff2') format('woff2'),
+						url('https://joaocarlossousa.github.io/testeewrturmalina/wp-content/uploads/useanyfont/5040Baar-Antropos.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.baar-antropos{font-family: 'baar-antropos' !important;}
+
+		

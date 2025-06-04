@@ -1,0 +1,74 @@
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title .sow-carousel-navigation-hidden {
+  display: none !important;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title a.sow-carousel-next,
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title a.sow-carousel-previous {
+  background: #eae8d8;
+  color: #d6c75d;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title a.sow-carousel-next:not(.sow-carousel-disabled):focus,
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title a.sow-carousel-previous:not(.sow-carousel-disabled):focus,
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title a.sow-carousel-next:not(.sow-carousel-disabled):hover,
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title a.sow-carousel-previous:not(.sow-carousel-disabled):hover {
+  background: #eae8d8;
+  color: #aeae3e;
+}
+@media (max-width: 480px) {
+  .so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title a.sow-carousel-next,
+  .so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-title a.sow-carousel-previous {
+    display: none;
+  }
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item {
+  width: 270px;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a {
+  background-repeat: no-repeat;
+  background-size: 270px 270px;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a,
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a span.overlay {
+  width: 270px;
+  height: 270px;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a span.overlay {
+  background: #74bea7;
+}
+@media (max-width: 480px) {
+  .so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail a {
+    background-size: cover;
+  }
+  .so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item,
+  .so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-thumbnail,
+  .so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item a {
+    max-width: 100vw;
+  }
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item h3.sow-carousel-item-title {
+  
+  font-size: 15px;
+  
+  font-weight: 500;
+  margin: 10px 0 0 0;
+  text-align: center;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item h3.sow-carousel-item-title a {
+  text-decoration: none;
+  color: #aeae3e;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item:focus .sow-carousel-thumbnail a,
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item:hover .sow-carousel-thumbnail a {
+  background-size: 300px 300px;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item:focus .sow-carousel-thumbnail a span.overlay,
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item:hover .sow-carousel-thumbnail a span.overlay {
+  opacity: 0.4;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-item .sow-carousel-default-thumbnail {
+  width: 270px;
+  height: 270px;
+}
+.so-widget-sow-post-carousel-base-3c96d5b33064-1472 .sow-carousel-wrapper .sow-carousel-items .sow-carousel-loading {
+  width: 270px;
+  height: 270px;
+}
